@@ -6,8 +6,13 @@ I've never used maven and the instructions were a little cryptic.
 I do use git a lot for basic work.  I use two factor authetication for my git account and I have a couple private repos.
 
 There are three branches
-master
-new-feature
-extra-credit
+* master
+* new-feature
+* extra-credit
 
 NOTE:  master was updated in order to digitally tag it.
+
+
+I used  
+* maven 3.2.1
+* java 8u5
