@@ -16,7 +16,7 @@ There are three branches
 * extra-credit
 
 
-NOTE:  master was updated in order to digitally tag it.  This might have messed up what you are looking for in master.  Previously src didn't have any files  outside of the orginal mvn site files.  You can see what happened my my logs.
+NOTE:  master was updated in order to digitally tag it.  This might have messed up what you are looking for in master.  Previously src didn't have any files  outside of the orginal mvn site files.  You can see what happened in my logs.
 
 
 I used  
