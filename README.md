@@ -19,6 +19,8 @@ There are three branches
 NOTE:  master was updated in order to digitally tag it.  This might have messed up what you are looking for in master.  Previously src didn't have any files  outside of the orginal mvn site files.  You can see what happened in my logs.
 
 
-I used  
+I look your sentence 'use the latest' literally.  However, I rarely like to use the latest software UNLESS there is a feature I need or want.  This philosophy saved my many servers from the Heartbeat vulnerability.
+
+I used
 * maven 3.2.1
 * java 8u5
