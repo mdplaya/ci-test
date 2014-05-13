@@ -33,4 +33,19 @@
     </plugins>
   </reporting>
 
+  <contributors>
+    <contributor>
+      <name>Dwayne Holmes</name>
+      <email>hiredwayne@hotmail.com</email>
+      <url>http://www.lazelabs.com</url>
+      <roles>
+        <role>Currently Seeking Work .001% of the time</role>
+      </roles>
+      <timezone>America/New York</timezone>
+      <properties>
+        <gtalk>Email.Dwayne@gmail.com</gtalk>
+      </properties>
+    </contributor>
+  </contributors>
+
 </project>
